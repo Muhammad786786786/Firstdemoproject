@@ -4,3 +4,5 @@ Hello world
 first.txt
 
 change from online edition
+
+This change is done locally.
